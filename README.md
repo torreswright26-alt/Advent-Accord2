@@ -14,14 +14,14 @@ Never silently convert a proposal into canon. Mark unresolved material **TBD**, 
 
 ## Documentation
 
-- [Master System Deck](MASTER_SYSTEM_DECK.md)
-- [Visual Constitution](VISUAL_CONSTITUTION.md)
+- [Master System Deck](docs/MASTER_SYSTEM_DECK.md)
+- [Visual Constitution](docs/VISUAL_CONSTITUTION.md)
 - [Canon Registry](#) — *TBD*
-- [Manifestation System](MANIFESTATION_SYSTEM.md)
-- [Characters](CHARACTERS.md)
-- [World and Locations](WORLD_AND_LOCATIONS.md)
+- [Manifestation System](docs/MANIFESTATION_SYSTEM.md)
+- [Characters](docs/CHARACTERS.md)
+- [World and Locations](docs/WORLD_AND_LOCATIONS.md)
 - [Production Pipeline](#) — *TBD*
 - [Quality Gates](#) — *TBD*
-- [Prompt Architecture](PROMPT_ARCHITECTURE.md)
+- [Prompt Architecture](docs/PROMPT_ARCHITECTURE.md)
 
 Advent Accord should feel **discovered, not invented**. Identity comes from coherent people, materials, histories, places, motion, and consequence—not decorative noise or generic fantasy shorthand.
