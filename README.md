@@ -15,7 +15,7 @@ Never silently convert a proposal into canon. Mark unresolved material **TBD**, 
 ## Documentation
 
 - [Master System Deck](docs/system/MASTER_SYSTEM_DECK.md)
-- [Visual Constitution](docs/system/VISUAL_CONSTITUTION.md)
+- [Visual Constitution]([docs/system/VISUAL_CONSTITUTION.md](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/VISUAL_CONSTITUTION.md))
 - [Canon Registry](docs/canon/CANON_REGISTRY.md)
 - [Manifestation System](docs/canon/MANIFESTATION_SYSTEM.md)
 - [Characters](docs/canon/CHARACTERS.md)
