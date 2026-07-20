@@ -14,14 +14,14 @@ Never silently convert a proposal into canon. Mark unresolved material **TBD**, 
 
 ## Documentation
 
-- [Master System Deck](docs/system/MASTER_SYSTEM_DECK.md)
-- [Visual Constitution]([docs/system/VISUAL_CONSTITUTION.md](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/VISUAL_CONSTITUTION.md))
-- [Canon Registry](docs/canon/CANON_REGISTRY.md)
-- [Manifestation System](docs/canon/MANIFESTATION_SYSTEM.md)
-- [Characters](docs/canon/CHARACTERS.md)
-- [World and Locations](docs/canon/WORLD_AND_LOCATIONS.md)
-- [Production Pipeline](docs/production/PRODUCTION_PIPELINE.md)
-- [Quality Gates](docs/production/QUALITY_GATES.md)
-- [Prompt Architecture](docs/production/PROMPT_ARCHITECTURE.md)
+- [Master System Deck](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/system/MASTER_SYSTEM_DECK.md)
+- [Visual Constitution](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/system/VISUAL_CONSTITUTION.md)
+- [Canon Registry](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/canon/CANON_REGISTRY.md)
+- [Manifestation System](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/canon/MANIFESTATION_SYSTEM.md)
+- [Characters](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/canon/CHARACTERS.md)
+- [World and Locations](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/canon/WORLD_AND_LOCATIONS.md)
+- [Production Pipeline](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/production/PRODUCTION_PIPELINE.md)
+- [Quality Gates](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/production/QUALITY_GATES.md)
+- [Prompt Architecture](https://github.com/torreswright26-alt/Advent-Accord2/blob/main/docs/production/PROMPT_ARCHITECTURE.md)
 
 Advent Accord should feel **discovered, not invented**. Identity comes from coherent people, materials, histories, places, motion, and consequence—not decorative noise or generic fantasy shorthand.
